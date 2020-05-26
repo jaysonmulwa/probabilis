@@ -1,0 +1,16 @@
+{
+	"name": "probabilis",
+	"version": "1.1.2",
+	"description": "Tool for probability",
+	"license": "MIT",
+	"repository": "jaysonmulwa/probabilis",
+	"main": "./probabilis.js",
+	"keywords": [
+		"probabilis",
+		"npm",
+		"package",
+		"distributions",
+		"probability",
+		"package"
+	]
+}
