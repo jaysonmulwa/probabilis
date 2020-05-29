@@ -1,6 +1,6 @@
 function BinomialDistribution(n, k, p) {
   /**
-   * ...pdf
+   * ...pmf
    * n = number of occurences
    * k = kth occurence
    * p = probability of 1 occurencr

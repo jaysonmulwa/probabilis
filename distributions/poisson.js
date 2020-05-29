@@ -1,6 +1,6 @@
 function PoissonDistribution(gamma, k) {
   /**
-   * ...pdf
+   * ...pmf
    * Gamma = mean
    * k = the discrete value x
    * https://en.wikipedia.org/wiki/Poisson_distribution
