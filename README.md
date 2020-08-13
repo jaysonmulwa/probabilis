@@ -1,7 +1,6 @@
 # probabilis 
 
 ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis)
-[![NPM Downloads][downloads-image]][downloads-url]
 
 An open-source library - collection of Probability distribution functions.
 
