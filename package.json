@@ -1,16 +1,19 @@
 {
 	"name": "probabilis",
 	"version": "1.1.3",
-	"description": "Tool for probability",
+	"description": "A collection of probability distribution functions",
 	"license": "MIT",
 	"repository": "jaysonmulwa/probabilis",
 	"main": "./probabilis.js",
 	"keywords": [
+		"probability",
 		"probabilis",
 		"npm",
 		"package",
 		"distributions",
-		"probability",
-		"package"
-	]
+		"mathematics",
+		"package",
+		"chance",
+	],
+	"publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
