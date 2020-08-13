@@ -55,7 +55,7 @@ console.log(result)
 
 * n - number of occurences
 * k - kth occurence
-* p - Probability of 1 occurence (Probability of success in other disttributions like Bernoulli's)
+* p - Probability of 1 occurence (Probability of success in other distributions like Bernoulli's)
 
 
 ### Binomial Distribution
