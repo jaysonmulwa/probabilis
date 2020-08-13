@@ -51,6 +51,8 @@ console.log(result)
 
 ## Full API
 
+### Reference
+
 ### Binomial Distribution
 
 
