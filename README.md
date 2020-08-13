@@ -1,6 +1,7 @@
 # probabilis 
 
 ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis)
+[![NPM Downloads][downloads-image]][downloads-url]
 
 An open-source library - collection of Probability distribution functions.
 
@@ -26,13 +27,12 @@ $ npm install probabilis
 
 Probabilis contains a wide-range of distribution functions:
 
-* Robust routing
-  * Focus on high performance
-  * Super-high test coverage
-  * HTTP helpers (redirection, caching, etc)
-  * View system supporting 14+ template engines
-  * Content negotiation
-  * Executable for generating applications quickly
+  * Binomial Distribution
+  * Negative Binomial Distribution
+  * Bernoulli Distribution
+  * Geometric Distribution
+  * Exponential Distribution
+  * Poisson Distribution
   
 Even more to come!
 
