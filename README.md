@@ -3,7 +3,7 @@
 ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis)
 ![npm](https://img.shields.io/npm/dy/probabilis)
 
-An open-source library - collection of Probability distribution functions.
+An open-source collection of Probability distribution functions.
 
 ## Installation 
 
@@ -66,27 +66,30 @@ console.log(result)
 Binomial(n, k, p)
 ```
 
-
 ### 2. Negative Binomial Distribution
-
+```js
 NegativeBinomial(n, k, p)
+```
 
 ### 3. Bernoulli Distribution
-
+```js
 Bernoulli(p, s)
+```
 
 ### 4. Geometric Distribution
-
+```js
 Geometric(x, p)
+```
 
 ### 5. Exponential Distribution
-
+```js
 Exponential(gamma, x)
+```
 
 ### 6. Poisson Distribution
-
+```js
 Poisson(gamma, x)
-
+```
 
 ## License
 
