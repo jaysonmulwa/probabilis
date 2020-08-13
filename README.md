@@ -53,7 +53,34 @@ console.log(result)
 
 ### Reference
 
+n - number of occurences
+k - kth occurence
+p - Probability of 1 occurence
+
+
 ### Binomial Distribution
+
+Binomial(n, k, p)
+
+### Negative Binomial Distribution
+
+NegativeBinomial(n, k, p)
+
+### Bernoulli Distribution
+
+Bernoulli(n, k, p)
+
+### Geometric Distribution
+
+Geometric(n, k, p)
+
+### Exponential Distribution
+
+Exponential(n, k, p)
+
+### Poisson Distribution
+
+Poisson(n, k, p)
 
 
 ## License
