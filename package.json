@@ -14,6 +14,5 @@
 		"mathematics",
 		"package",
 		"chance",
-	],
-	"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+	]
 }
