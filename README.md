@@ -24,6 +24,18 @@ $ npm install probabilis
 
 ## Features / Distributions included
 
+Probabilis contains a wide-range of distribution functions:
+
+* Robust routing
+  * Focus on high performance
+  * Super-high test coverage
+  * HTTP helpers (redirection, caching, etc)
+  * View system supporting 14+ template engines
+  * Content negotiation
+  * Executable for generating applications quickly
+  
+Even more to come!
+
 ## Reference Docs
 
 
