@@ -62,8 +62,10 @@ console.log(result)
 
 
 ### 1. Binomial Distribution
-
+```js
 Binomial(n, k, p)
+```
+
 
 ### 2. Negative Binomial Distribution
 
