@@ -51,7 +51,7 @@ console.log(result)
 
 ## Full API
 
-# Binomial Distribution
+### Binomial Distribution
 
 
 ## License
