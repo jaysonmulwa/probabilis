@@ -53,9 +53,12 @@ console.log(result)
 
 ### Reference
 
-* n - number of occurences
+* n - Number of occurences
 * k - kth occurence
 * p - Probability of 1 occurence (Probability of success in other distributions like Bernoulli's)
+* s - Discrete value (0 - failure, 1 - success)
+* x - A discrete value
+* gamma - Mean value
 
 
 ### Binomial Distribution
@@ -68,19 +71,19 @@ NegativeBinomial(n, k, p)
 
 ### Bernoulli Distribution
 
-Bernoulli(n, k, p)
+Bernoulli(p, s)
 
 ### Geometric Distribution
 
-Geometric(n, k, p)
+Geometric(x, p)
 
 ### Exponential Distribution
 
-Exponential(n, k, p)
+Exponential(gamma, x)
 
 ### Poisson Distribution
 
-Poisson(n, k, p)
+Poisson(gamma, x)
 
 
 ## License
