@@ -61,27 +61,27 @@ console.log(result)
 * gamma - Mean value
 
 
-### Binomial Distribution
+### 1. Binomial Distribution
 
 Binomial(n, k, p)
 
-### Negative Binomial Distribution
+### 2. Negative Binomial Distribution
 
 NegativeBinomial(n, k, p)
 
-### Bernoulli Distribution
+### 3. Bernoulli Distribution
 
 Bernoulli(p, s)
 
-### Geometric Distribution
+### 4. Geometric Distribution
 
 Geometric(x, p)
 
-### Exponential Distribution
+### 5. Exponential Distribution
 
 Exponential(gamma, x)
 
-### Poisson Distribution
+### 6. Poisson Distribution
 
 Poisson(gamma, x)
 
