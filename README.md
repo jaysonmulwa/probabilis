@@ -23,6 +23,8 @@ Installation is done using the
 $ npm install probabilis
 ```
 
+## Usage
+
 ## Features / Distributions included
 
 Probabilis contains a wide-range of distribution functions:
@@ -36,6 +38,7 @@ Probabilis contains a wide-range of distribution functions:
   
 Even more to come!
 
+## License
 ## Reference Docs
 
 
