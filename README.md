@@ -38,7 +38,12 @@ Probabilis contains a wide-range of distribution functions:
   
 Even more to come!
 
-## License
 ## Reference Docs
+
+## License
+
+[MIT](LICENSE)
+
+
 
 
