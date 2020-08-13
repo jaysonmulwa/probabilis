@@ -41,9 +41,12 @@ Even more to come!
 
 ```js
 const probabilis = require('probabilis')
-const calculate = probabilis()
 
-let result = calculate.Binomial(2, 1, 0.5)
+
+let result = probabilis.Binomial(2, 1, 0.5)
+
+//let result = probabilis.NegativeBinomial(2, 1, 0.5) - Another Example
+
 
 console.log(result)
 
