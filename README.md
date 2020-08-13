@@ -23,7 +23,6 @@ Installation is done using the
 $ npm install probabilis
 ```
 
-## Usage
 
 ## Features / Distributions included
 
@@ -37,6 +36,23 @@ Probabilis contains a wide-range of distribution functions:
   * Poisson Distribution
   
 Even more to come!
+
+## Usage Example
+
+```js
+const probabilis = require('probabilis')
+const calculate = probabilis()
+
+let result = calculate.Binomial(2, 1, 0.5)
+
+console.log(result)
+
+```
+
+## Full API
+
+# Binomial Distribution
+
 
 ## License
 
