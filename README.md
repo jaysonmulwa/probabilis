@@ -2,6 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/probabilis?color=green&label=probabilis)
 ![npm](https://img.shields.io/npm/dy/probabilis)
+[![CodeFactor](https://www.codefactor.io/repository/github/jaysonmulwa/probabilis/badge)](https://www.codefactor.io/repository/github/jaysonmulwa/probabilis)
 
 An open-source collection of Probability distribution functions.
 
